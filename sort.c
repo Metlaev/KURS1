@@ -12,7 +12,11 @@ void bubbleSort(int arr, int n) {
             }  
         }  
     }  
-}  
+}
+int main() {
+    int a[] = {4, 2};
+    bubbleSort(a, 3);
+} 
 comment out
 comment 2
 
