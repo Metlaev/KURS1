@@ -13,7 +13,7 @@ function loadData() {
     
     editableElements.forEach(el => {
         // проверяем, есть ли сохраненный текст для этого ID
-        const savedText = localStorage.getItem('cv_data_' + el);
+        const savedText = localStorage.getItem('cv_data_' + el.id);
         if (savedText) {
             el.innerText = savedText;
         }
