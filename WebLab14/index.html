@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Resume</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  
+  <body>
+    <div class="container">
+      <header class="header">
+        <!-- Карточка с фото -->
+        <div class="card profile-card">
+           <img src="https://www.shutterstock.com/image-vector/default-avatar-social-media-display-600nw-2632690107.jpg" 
+           alt="Profile" class="avatar">
+        </div>
+
+        <!-- Карточка с именем -->
+        <div class="card card-secondary info-card">
+           <p>Привет 👋 Я</p>
+           <h1 id="name" contenteditable="true">Дмитрий Крюков</h1>
+           <p id="job" contenteditable="true">Системный администратор</p>
+        </div>
+
+        <!-- Карточка с языками -->
+        <div class="card card-secondary languages-card">
+           <h3>Языки</h3>
+           <p>Английский — 60%</p>
+           <p>Русский — 100%</p>
+        </div>
+      </header>
+
+      <!-- Основной контент -->
+      <main class="main-grid">
+        <!-- Карточка с опытом -->
+        <section class="card experience">
+          <h2 style="text-align: center">Опыт работы</h2>
+          <p id="exp-1" contenteditable="true">Верстка сайтов: Создание адаптивных и кроссбраузерных интерфейсов с использованием HTML5 и современного CSS (Flexbox, Grid).</p>
+          <p id="exp-2" contenteditable="true">JavaScript: Разработка интерактивных элементов на странице, работа с DOM-деревом и обработка событий (например, реализация Ripple-эффектов).</p>
+          <p id="exp-3" contenteditable="true">Работа с инструментами: Опыт использования Vite, npm и Git для контроля версий и сборки проектов.</p>
+          <p id="exp-4" contenteditable="true">Дизайн: Перенос макетов из Figma в чистый код с точным соблюдением отступов, шрифтов и цветовой гаммы.</p>
+          <p id="exp-5" contenteditable="true">Оптимизация: Реализация локального хранения данных (LocalStorage) для сохранения состояния интерфейса между сессиями</p>
+        </section>
+        <!-- Карточка с инструментами -->
+          <div class="card tools-card">
+            <h2 style="text-align: center">Инструменты</h2>
+            <div class="tools-grid">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+              alt="JS" title="JavaScript">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
+              alt="CSS3" title="CSS3">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+              alt="HTML5" title="HTML5">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+              alt="Figma" title="Figma">
+            </div>
+          </div>
+          <button id="download-pdf" class="download-btn">Скачать PDF</button>
+        <!-- Карточка с интересами -->
+        <div class="card interests-card">
+            <h2 style="text-align: center">Увлечения</h2>
+            <div class="inerests-items">
+              <span id="tag1" class="tag" contenteditable="true">Спорт</span>
+              <span id="tag2" class="tag" contenteditable="true">Музыка</span>
+              <span id="tag3" class="tag" contenteditable="true">Игры</span>
+            </div>
+          </div>
+
+      </main>
+    </div>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>
