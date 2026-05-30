@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/anagram_prog.dir/main.c.o CMakeFiles/anagram_prog.dir/anagramm.c.o -o anagram_prog 

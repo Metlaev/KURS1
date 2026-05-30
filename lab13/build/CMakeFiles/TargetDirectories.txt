@@ -1,0 +1,4 @@
+/home/dushegub/Programming/home work/2semester/lab13/build/CMakeFiles/main.dir
+/home/dushegub/Programming/home work/2semester/lab13/build/CMakeFiles/UTIL_LIB.dir
+/home/dushegub/Programming/home work/2semester/lab13/build/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpipes_lib.a CMakeFiles/pipes_lib.dir/read_pipe.c.o CMakeFiles/pipes_lib.dir/write_pipe.c.o
+/usr/bin/ranlib libpipes_lib.a

@@ -1,0 +1,3 @@
+/home/dushegub/Programming/home work/2semester/RGR/build/CMakeFiles/anagram_prog.dir
+/home/dushegub/Programming/home work/2semester/RGR/build/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/RGR/build/CMakeFiles/rebuild_cache.dir

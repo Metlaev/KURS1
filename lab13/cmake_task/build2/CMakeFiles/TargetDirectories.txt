@@ -1,0 +1,9 @@
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/CMakeFiles/main.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/CMakeFiles/rebuild_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/pipes/CMakeFiles/pipes_lib.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/pipes/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/pipes/CMakeFiles/rebuild_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/background/CMakeFiles/background_lib.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/background/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/lab13/cmake_task/build2/background/CMakeFiles/rebuild_cache.dir

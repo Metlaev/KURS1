@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbackground_lib.a CMakeFiles/background_lib.dir/background.c.o
+/usr/bin/ranlib libbackground_lib.a

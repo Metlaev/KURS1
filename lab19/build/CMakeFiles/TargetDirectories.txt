@@ -1,0 +1,3 @@
+/home/dushegub/Programming/home work/2semester/lab19/build/CMakeFiles/paint.dir
+/home/dushegub/Programming/home work/2semester/lab19/build/CMakeFiles/edit_cache.dir
+/home/dushegub/Programming/home work/2semester/lab19/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# Создать файл .gitignore
+touch .gitignore
+
+# Добавить в него исключение для объектных файлов (.o)
+echo "*.o" >> .gitignore
+
+# Добавить исключение для исполняемых файлов без расширения (для Linux/macOS)
+echo "*" >> .gitignore
+echo "!*/" >> .gitignore
+echo "!*.c" >> .gitignore
+echo "!*.h" >> .gitignore
+echo "!.gitignore" >> .gitignore
